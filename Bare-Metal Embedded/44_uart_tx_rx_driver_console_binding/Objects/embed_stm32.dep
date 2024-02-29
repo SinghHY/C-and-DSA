@@ -1,0 +1,85 @@
+Dependencies for Project 'embed', Target 'stm32': (DO NOT MODIFY !)
+F (.\main.cpp)(0x5F832C00)(--cpp -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32-IC:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (uart.h)(0x5F832222)
+I (F:\Keil_Installation\ARM\ARMCC\include\stdio.h)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\iostream)(0x5CEBDC44)
+I (F:\Keil_Installation\ARM\ARMCC\include\iosfwd)(0x5CEBDC4E)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_defs.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_config.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\config.h)(0x5CEBDC48)
+I (F:\Keil_Installation\ARM\ARMCC\include\cwchar)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\wchar.h)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\istream)(0x5CEBDC50)
+I (F:\Keil_Installation\ARM\ARMCC\include\ostream)(0x5CEBDC50)
+I (F:\Keil_Installation\ARM\ARMCC\include\ios)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\streambuf)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_iosbase.h)(0x5CEBDC4C)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_locale.h)(0x5CEBDC48)
+I (F:\Keil_Installation\ARM\ARMCC\include\string)(0x5CEBDC50)
+I (F:\Keil_Installation\ARM\ARMCC\include\limits)(0x5CEBDC50)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_math.h)(0x5CEBDC4C)
+I (F:\Keil_Installation\ARM\ARMCC\include\cmath)(0x5CEBDC4E)
+I (F:\Keil_Installation\ARM\ARMCC\include\math.h)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\cfloat)(0x5CEBDC50)
+I (F:\Keil_Installation\ARM\ARMCC\include\float.h)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\climits)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\limits.h)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_algobase.h)(0x5CEBDC48)
+I (F:\Keil_Installation\ARM\ARMCC\include\utility)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_iterator.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_iterbase.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\cstddef)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\stddef.h)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_strref.h)(0x5CEBDC48)
+I (F:\Keil_Installation\ARM\ARMCC\include\memory)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\new)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\exception)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_mutex.h)(0x5CEBDC48)
+I (F:\Keil_Installation\ARM\ARMCC\include\cstring)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\string.h)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_traits.h)(0x5CEBDC4C)
+I (F:\Keil_Installation\ARM\ARMCC\include\cstdio)(0x5CEBDC44)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_error.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_locimp.h)(0x5CEBDC4C)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_locvector.h)(0x5CEBDC48)
+I (F:\Keil_Installation\ARM\ARMCC\include\ctime)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\time.h)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\clocale)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\locale.h)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_exception.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\cstdarg)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\stdarg.h)(0x5CEBDC54)
+I (F:\Keil_Installation\ARM\ARMCC\include\cstdlib)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\stdlib.h)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_ctype.h)(0x5CEBDC4C)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_ioiter.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_numeric.h)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_punct.h)(0x5CEBDC4C)
+I (F:\Keil_Installation\ARM\ARMCC\include\string.CC)(0x5CEBDC4E)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_punct.CC)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\rw\_numeric.CC)(0x5CEBDC4A)
+I (F:\Keil_Installation\ARM\ARMCC\include\ios.CC)(0x5CEBDC52)
+I (F:\Keil_Installation\ARM\ARMCC\include\ostream.CC)(0x5CEBDC4E)
+F (.\mcal_reg_access.h)(0x5F81F0F3)()
+F (.\mcal_reg.h)(0x5F8289DA)()
+F (.\mcal_reg_access_dynamic.h)(0x5F81F0F1)()
+F (.\uart.cpp)(0x5F832AC7)(--cpp -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32-IC:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (uart.h)(0x5F832222)
+I (mcal_reg.h)(0x5F8289DA)
+I (F:\Keil_Installation\ARM\ARMCC\include\cstdint)(0x5CEBDC46)
+I (F:\Keil_Installation\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (mcal_reg_access.h)(0x5F81F0F3)
+I (mcal_reg_access_dynamic.h)(0x5F81F0F1)
+I (F:\Keil_Installation\ARM\ARMCC\include\stdio.h)(0x5CEBDC52)
+F (.\uart.h)(0x5F832222)()
+F (RTE\Device\STM32F411VETx\startup_stm32f411xe.s)(0x5F8322C7)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_stm32-IC:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 528" --pd "_RTE_ SETA 1" --pd "STM32F411xE SETA 1"--list .\listings\startup_stm32f411xe.lst --xref -o .\objects\startup_stm32f411xe.o --depend .\objects\startup_stm32f411xe.d)
+F (RTE\Device\STM32F411VETx\system_stm32f4xx.c)(0x5C5BF292)(--c99 --gnu -c --cpu Cortex-M4.fp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_stm32-IC:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include-IC:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include-D__UVISION_VERSION="528" -D_RTE_ -DSTM32F411xE-o .\objects\system_stm32f4xx.o --omf_browse .\objects\system_stm32f4xx.crf --depend .\objects\system_stm32f4xx.d)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x5C5BF292)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f411xe.h)(0x5C5BF292)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\core_cm4.h)(0x5C8FB044)
+I (F:\Keil_Installation\ARM\ARMCC\include\stdint.h)(0x5CEBDC52)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_version.h)(0x5B9776B4)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_compiler.h)(0x5C8FB044)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\cmsis_armcc.h)(0x5C8FB044)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FB044)
+I (C:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x5C5BF292)
