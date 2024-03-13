@@ -773,20 +773,20 @@ ARM Macro Assembler    Page 12
               00000400 
               00002000 
               00000000 
-Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp --apcs=int
-erwork --depend=.\objects\startup_stm32f411xe.d -o.\objects\startup_stm32f411xe
-.o -I.\RTE\_stm32 -IC:\Users\Israel\AppData\Local\Arm\Packs\ARM\CMSIS\5.5.1\CMS
-IS\Core\Include -IC:\Users\Israel\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.
-14.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include --predefine="__EVAL SETA 1" --pr
+Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M4.fp.sp --depen
+d=.\objects\startup_stm32f411xe.d -o.\objects\startup_stm32f411xe.o -I.\RTE\_st
+m32 -IC:\Users\harpr\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include
+ -IC:\Users\harpr\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMS
+IS\Device\ST\STM32F4xx\Include --predefine="__EVAL SETA 1" --predefine="__UVISI
 
 
 
 ARM Macro Assembler    Page 13 
 
 
-edefine="__UVISION_VERSION SETA 528" --predefine="_RTE_ SETA 1" --predefine="ST
-M32F411xE SETA 1" --list=.\listings\startup_stm32f411xe.lst RTE\Device\STM32F41
-1VETx\startup_stm32f411xe.s
+ON_VERSION SETA 534" --predefine="_RTE_ SETA 1" --predefine="STM32F411xE SETA 1
+" --predefine="_RTE_ SETA 1" --list=.\listings\startup_stm32f411xe.lst RTE\Devi
+ce\STM32F411VETx\startup_stm32f411xe.s
 
 
 
